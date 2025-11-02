@@ -55,9 +55,11 @@ The dashboard allows users to explore metrics such as:
 ---
 
 ## 📸 Dashboard Preview
+<img width="1123" height="640" alt="Screenshot 2025-11-02 185008" src="https://github.com/user-attachments/assets/5b094f22-243b-42f8-b396-e2f539bf2f98" />
+<img width="1124" height="648" alt="Screenshot 2025-11-02 185122" src="https://github.com/user-attachments/assets/aa3c8eff-d033-4198-a7b0-3850669eebee" />
+<img width="1136" height="654" alt="Screenshot 2025-11-02 185150" src="https://github.com/user-attachments/assets/85838db0-f05f-44bb-97f0-de218d0a8907" />
 
-<img width="1136" height="654" alt="Screenshot 2025-11-02 185150" src="https://github.com/user-attachments/assets/5c998202-0f95-4b92-9f9f-3321e3006d61" />
-<img width="1136" height="654" alt="Screenshot 2025-11-02 185150" src="https://github.com/user-attachments/assets/dd7208be-4eb5-4cda-b0d2-dbda18e1c52d" />
-<img width="1136" height="654" alt="Screenshot 2025-11-02 185150" src="https://github.com/user-attachments/assets/0d670742-6c74-4790-abcb-736877ca02e6" />
+
+
 
 
